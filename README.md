@@ -1,4 +1,8 @@
 # netra
+NEW (rewrite in c++): https://github.com/Greyhash-dev/netra-cpp
+
+This project is dead and I won't do any work on it for now at least.
+
 This game was made for the 150 year party of my school.
 
 Thanks to Topenga for the artwork and Ilya for the word dataset.
